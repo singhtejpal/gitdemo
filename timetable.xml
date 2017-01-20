@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE timetable SYSTEM "timetable.dtd">
+<timetable 
+	xmlns="http://www.tejpalsingh.com/course"
+	xmlns:instructors="http://www/tejpalsingh.com/instructor">
+	
+	<course>
+		<name>Xml and Web Services</name>
+		<code>Http 5203</code>
+		<day>Monday</day>
+		<time>08:00am-11.35am</time>
+		<roomno>L123</roomno>
+		<type>Class</type>
+		<section>NA</section>
+		<instructors:instructor>
+			<name>Joanna Kommala</name>
+		</instructors:instructor>
+	</course>
+
+	<course>
+		<name>Web Information Architecture</name>
+		<code>Http 5206</code>
+		<day>Tuesday</day>
+		<time>08:55am-11.35am</time>
+		<roomno>F231</roomno>
+		<type>Online</type>
+		<section>NA</section>
+		<instructors:instructor>
+			<name>Bernard Monette</name>
+		</instructors:instructor>
+	</course>
+	
+	<course>
+		<name>Career Connections</name>
+		<code>Http 5205</code>
+		<day>Wednesday</day>
+		<time>10:45am-12.30am</time>
+		<roomno>F332</roomno>
+		<type>Class</type>
+		<section>NA</section>
+		<instructors:instructor>
+			<name>Sean Doyle</name>
+		</instructors:instructor>
+	</course>
+</timetable>
+
